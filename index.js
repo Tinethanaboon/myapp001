@@ -1,5 +1,6 @@
 /**
  * @format
+ * Thanaboon
  */
 
 import {AppRegistry} from 'react-native';
